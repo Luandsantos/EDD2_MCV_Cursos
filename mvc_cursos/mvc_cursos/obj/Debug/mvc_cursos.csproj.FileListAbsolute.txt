@@ -1,0 +1,7 @@
+C:\Users\Pichau\Desktop\EDD2\mvc_cursos\mvc_cursos\obj\Debug\mvc_cursos.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\EDD2\mvc_cursos\mvc_cursos\obj\Debug\mvc_cursos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\EDD2\mvc_cursos\mvc_cursos\bin\Debug\mvc_cursos.exe.config
+C:\Users\Pichau\Desktop\EDD2\mvc_cursos\mvc_cursos\bin\Debug\mvc_cursos.exe
+C:\Users\Pichau\Desktop\EDD2\mvc_cursos\mvc_cursos\bin\Debug\mvc_cursos.pdb
+C:\Users\Pichau\Desktop\EDD2\mvc_cursos\mvc_cursos\obj\Debug\mvc_cursos.exe
+C:\Users\Pichau\Desktop\EDD2\mvc_cursos\mvc_cursos\obj\Debug\mvc_cursos.pdb
